@@ -1,167 +1,167 @@
-[/a1.mzstatic.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/a2.mzstatic.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/a3.mzstatic.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/a4.mzstatic.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/a5.mzstatic.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/adcdownload.apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/adcdownload.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/amp-api.media.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/api-p-ap-c.smoot.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/api-p-ap-d.smoot.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/api-p-ap-e.smoot.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/app-site-association.cdn-apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/appldnld.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/appldnld.g.aaplimg.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/appleid.cdn-apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/apps.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/apps.mzstatic.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/cdn-cn1.apple-mapkit.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/cdn-cn2.apple-mapkit.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/cdn-cn3.apple-mapkit.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/cdn-cn4.apple-mapkit.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/cdn.apple-mapkit.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/cdn1.apple-mapkit.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/cdn2.apple-mapkit.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/cdn3.apple-mapkit.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/cdn4.apple-mapkit.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/cds-cdn.v.aaplimg.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/cds.apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/cds.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/cdsassets.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/cl1-cdn.origin-apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/cl1.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/cl2-cn.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/cl2.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/cl3-cdn.origin-apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/cl3.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/cl4-cdn.origin-apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/cl4-cn.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/cl4.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/cl5-cdn.origin-apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/cl5.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/clientflow.apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/clientflow.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/cn-smp-paymentservices.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/configuration.apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/configuration.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/cstat.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/cstat.cdn-apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/dd-cdn.origin-apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/dejavu.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/download.developer.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/experiments.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/gs-loc-cn.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/gs-loc.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/gsp10-ssl-cn.ls.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/gsp12-cn.ls.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/gsp13-cn.ls.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/gsp4-cn.ls.apple.com.edgekey.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/gsp4-cn.ls.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/gsp5-cn.ls.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/gsp85-cn-ssl.ls.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/gspe19-2-cn-ssl.ls.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/gspe19-cn-ssl.ls.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/gspe19-cn.ls-apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/gspe19-cn.ls.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/gspe21-ssl.ls.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/gspe21.ls.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/gspe35-ssl.ls.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/gspe79-cn-ssl.ls.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/guzzoni-apple-com.v.aaplimg.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/guzzoni.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/guzzoni.smoot.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/iadsdk.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/icloud-cdn.icloud.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/icloud.cdn-apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/images.apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/images.apple.com.edgekey.net.globalredir.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/images.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/init-kt.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/init-p01md-lb.push-apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/init-p01md.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/init-p01st-lb.push-apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/init-p01st.push.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/init-s01st-lb.push-apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/init-s01st.push.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/init.ess.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/iosapps.itunes.g.aaplimg.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/ipcdn.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/iphone-ld.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/iphone-ld.origin-apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/is1-ssl.mzstatic.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/is1.mzstatic.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/is2-ssl.mzstatic.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/is2.mzstatic.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/is3-ssl.mzstatic.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/is3.mzstatic.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/is4-ssl.mzstatic.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/is4.mzstatic.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/is5-ssl.mzstatic.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/is5.mzstatic.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/itunes-apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/itunes.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/itunesconnect.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/mesu-cdn.apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/mesu-china.apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/mesu.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/ml.cdn-apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/music.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/ocsp-lb.apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/ocsp2-lb.apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/ocsp.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/ocsp2.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/oscdn.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/oscdn.origin-apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/osxapps.itunes.g.aaplimg.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/pancake.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/pancake.cdn-apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/pba0.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/probe.siri.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/prod-support.apple-support.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/publicassets.cdn-apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/reserve-prime.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/s.mzstatic.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/seed-sequoia.siri.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/seed-swallow.siri.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/seed.siri.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/sequoia.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/sh-pod2-smp-device.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/shazam-insights.cdn-apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/smp-device-content.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/static.gc.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/stocks-sparkline-lb.apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/stocks-sparkline.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/store.apple.com.edgekey.net.globalredir.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/store.apple.com.edgekey.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/store.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/store.storeimages.apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/store.storeimages.cdn-apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/support-china.apple-support.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/support.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/swallow-apple-com.v.aaplimg.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/swallow.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/swcatalog-cdn.apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/swcatalog.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/swcdn.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/swcdn.g.aaplimg.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/swdist.apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/swdist.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/swscan-cdn.apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/swscan.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/sylvan.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/tj-pod1-smp-device.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/updates-http.cdn-apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/updates-http.cdn-apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/updates.cdn-apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/valid.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/valid.origin-apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/weather-data.apple.com.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/weather-data.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/weather-map.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/weather-map2.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/weatherkit.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/www.apple.com.edgekey.net.globalredir.akadns.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/www.apple.com.edgekey.net/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/www.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
-[/xp.apple.com/]https://dns.alidns.com/dns-query quic://dns.alidns.com tls://dns.alidns.com
+[/a1.mzstatic.com/]211.148.192.141 211.148.192.151
+[/a2.mzstatic.com/]211.148.192.141 211.148.192.151
+[/a3.mzstatic.com/]211.148.192.141 211.148.192.151
+[/a4.mzstatic.com/]211.148.192.141 211.148.192.151
+[/a5.mzstatic.com/]211.148.192.141 211.148.192.151
+[/adcdownload.apple.com.akadns.net/]211.148.192.141 211.148.192.151
+[/adcdownload.apple.com/]211.148.192.141 211.148.192.151
+[/amp-api.media.apple.com/]211.148.192.141 211.148.192.151
+[/api-p-ap-c.smoot.apple.com/]211.148.192.141 211.148.192.151
+[/api-p-ap-d.smoot.apple.com/]211.148.192.141 211.148.192.151
+[/api-p-ap-e.smoot.apple.com/]211.148.192.141 211.148.192.151
+[/app-site-association.cdn-apple.com/]211.148.192.141 211.148.192.151
+[/appldnld.apple.com/]211.148.192.141 211.148.192.151
+[/appldnld.g.aaplimg.com/]211.148.192.141 211.148.192.151
+[/appleid.cdn-apple.com/]211.148.192.141 211.148.192.151
+[/apps.apple.com/]211.148.192.141 211.148.192.151
+[/apps.mzstatic.com/]211.148.192.141 211.148.192.151
+[/cdn-cn1.apple-mapkit.com/]211.148.192.141 211.148.192.151
+[/cdn-cn2.apple-mapkit.com/]211.148.192.141 211.148.192.151
+[/cdn-cn3.apple-mapkit.com/]211.148.192.141 211.148.192.151
+[/cdn-cn4.apple-mapkit.com/]211.148.192.141 211.148.192.151
+[/cdn.apple-mapkit.com/]211.148.192.141 211.148.192.151
+[/cdn1.apple-mapkit.com/]211.148.192.141 211.148.192.151
+[/cdn2.apple-mapkit.com/]211.148.192.141 211.148.192.151
+[/cdn3.apple-mapkit.com/]211.148.192.141 211.148.192.151
+[/cdn4.apple-mapkit.com/]211.148.192.141 211.148.192.151
+[/cds-cdn.v.aaplimg.com/]211.148.192.141 211.148.192.151
+[/cds.apple.com.akadns.net/]211.148.192.141 211.148.192.151
+[/cds.apple.com/]211.148.192.141 211.148.192.151
+[/cdsassets.apple.com/]211.148.192.141 211.148.192.151
+[/cl1-cdn.origin-apple.com.akadns.net/]211.148.192.141 211.148.192.151
+[/cl1.apple.com/]211.148.192.141 211.148.192.151
+[/cl2-cn.apple.com/]211.148.192.141 211.148.192.151
+[/cl2.apple.com/]211.148.192.141 211.148.192.151
+[/cl3-cdn.origin-apple.com.akadns.net/]211.148.192.141 211.148.192.151
+[/cl3.apple.com/]211.148.192.141 211.148.192.151
+[/cl4-cdn.origin-apple.com.akadns.net/]211.148.192.141 211.148.192.151
+[/cl4-cn.apple.com/]211.148.192.141 211.148.192.151
+[/cl4.apple.com/]211.148.192.141 211.148.192.151
+[/cl5-cdn.origin-apple.com.akadns.net/]211.148.192.141 211.148.192.151
+[/cl5.apple.com/]211.148.192.141 211.148.192.151
+[/clientflow.apple.com.akadns.net/]211.148.192.141 211.148.192.151
+[/clientflow.apple.com/]211.148.192.141 211.148.192.151
+[/cn-smp-paymentservices.apple.com/]211.148.192.141 211.148.192.151
+[/configuration.apple.com.akadns.net/]211.148.192.141 211.148.192.151
+[/configuration.apple.com/]211.148.192.141 211.148.192.151
+[/cstat.apple.com/]211.148.192.141 211.148.192.151
+[/cstat.cdn-apple.com/]211.148.192.141 211.148.192.151
+[/dd-cdn.origin-apple.com.akadns.net/]211.148.192.141 211.148.192.151
+[/dejavu.apple.com/]211.148.192.141 211.148.192.151
+[/download.developer.apple.com/]211.148.192.141 211.148.192.151
+[/experiments.apple.com/]211.148.192.141 211.148.192.151
+[/gs-loc-cn.apple.com/]211.148.192.141 211.148.192.151
+[/gs-loc.apple.com/]211.148.192.141 211.148.192.151
+[/gsp10-ssl-cn.ls.apple.com/]211.148.192.141 211.148.192.151
+[/gsp12-cn.ls.apple.com/]211.148.192.141 211.148.192.151
+[/gsp13-cn.ls.apple.com/]211.148.192.141 211.148.192.151
+[/gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net/]211.148.192.141 211.148.192.151
+[/gsp4-cn.ls.apple.com.edgekey.net/]211.148.192.141 211.148.192.151
+[/gsp4-cn.ls.apple.com/]211.148.192.141 211.148.192.151
+[/gsp5-cn.ls.apple.com/]211.148.192.141 211.148.192.151
+[/gsp85-cn-ssl.ls.apple.com/]211.148.192.141 211.148.192.151
+[/gspe19-2-cn-ssl.ls.apple.com/]211.148.192.141 211.148.192.151
+[/gspe19-cn-ssl.ls.apple.com/]211.148.192.141 211.148.192.151
+[/gspe19-cn.ls-apple.com.akadns.net/]211.148.192.141 211.148.192.151
+[/gspe19-cn.ls.apple.com/]211.148.192.141 211.148.192.151
+[/gspe21-ssl.ls.apple.com/]211.148.192.141 211.148.192.151
+[/gspe21.ls.apple.com/]211.148.192.141 211.148.192.151
+[/gspe35-ssl.ls.apple.com/]211.148.192.141 211.148.192.151
+[/gspe79-cn-ssl.ls.apple.com/]211.148.192.141 211.148.192.151
+[/guzzoni-apple-com.v.aaplimg.com/]211.148.192.141 211.148.192.151
+[/guzzoni.apple.com/]211.148.192.141 211.148.192.151
+[/guzzoni.smoot.apple.com/]211.148.192.141 211.148.192.151
+[/iadsdk.apple.com/]211.148.192.141 211.148.192.151
+[/icloud-cdn.icloud.com.akadns.net/]211.148.192.141 211.148.192.151
+[/icloud.cdn-apple.com/]211.148.192.141 211.148.192.151
+[/images.apple.com.akadns.net/]211.148.192.141 211.148.192.151
+[/images.apple.com.edgekey.net.globalredir.akadns.net/]211.148.192.141 211.148.192.151
+[/images.apple.com/]211.148.192.141 211.148.192.151
+[/init-kt.apple.com/]211.148.192.141 211.148.192.151
+[/init-p01md-lb.push-apple.com.akadns.net/]211.148.192.141 211.148.192.151
+[/init-p01md.apple.com/]211.148.192.141 211.148.192.151
+[/init-p01st-lb.push-apple.com.akadns.net/]211.148.192.141 211.148.192.151
+[/init-p01st.push.apple.com/]211.148.192.141 211.148.192.151
+[/init-s01st-lb.push-apple.com.akadns.net/]211.148.192.141 211.148.192.151
+[/init-s01st.push.apple.com/]211.148.192.141 211.148.192.151
+[/init.ess.apple.com/]211.148.192.141 211.148.192.151
+[/iosapps.itunes.g.aaplimg.com/]211.148.192.141 211.148.192.151
+[/ipcdn.apple.com/]211.148.192.141 211.148.192.151
+[/iphone-ld.apple.com/]211.148.192.141 211.148.192.151
+[/iphone-ld.origin-apple.com.akadns.net/]211.148.192.141 211.148.192.151
+[/is1-ssl.mzstatic.com/]211.148.192.141 211.148.192.151
+[/is1.mzstatic.com/]211.148.192.141 211.148.192.151
+[/is2-ssl.mzstatic.com/]211.148.192.141 211.148.192.151
+[/is2.mzstatic.com/]211.148.192.141 211.148.192.151
+[/is3-ssl.mzstatic.com/]211.148.192.141 211.148.192.151
+[/is3.mzstatic.com/]211.148.192.141 211.148.192.151
+[/is4-ssl.mzstatic.com/]211.148.192.141 211.148.192.151
+[/is4.mzstatic.com/]211.148.192.141 211.148.192.151
+[/is5-ssl.mzstatic.com/]211.148.192.141 211.148.192.151
+[/is5.mzstatic.com/]211.148.192.141 211.148.192.151
+[/itunes-apple.com.akadns.net/]211.148.192.141 211.148.192.151
+[/itunes.apple.com/]211.148.192.141 211.148.192.151
+[/itunesconnect.apple.com/]211.148.192.141 211.148.192.151
+[/mesu-cdn.apple.com.akadns.net/]211.148.192.141 211.148.192.151
+[/mesu-china.apple.com.akadns.net/]211.148.192.141 211.148.192.151
+[/mesu.apple.com/]211.148.192.141 211.148.192.151
+[/ml.cdn-apple.com/]211.148.192.141 211.148.192.151
+[/music.apple.com/]211.148.192.141 211.148.192.151
+[/ocsp-lb.apple.com.akadns.net/]211.148.192.141 211.148.192.151
+[/ocsp2-lb.apple.com.akadns.net/]211.148.192.141 211.148.192.151
+[/ocsp.apple.com/]211.148.192.141 211.148.192.151
+[/ocsp2.apple.com/]211.148.192.141 211.148.192.151
+[/oscdn.apple.com/]211.148.192.141 211.148.192.151
+[/oscdn.origin-apple.com.akadns.net/]211.148.192.141 211.148.192.151
+[/osxapps.itunes.g.aaplimg.com/]211.148.192.141 211.148.192.151
+[/pancake.apple.com/]211.148.192.141 211.148.192.151
+[/pancake.cdn-apple.com.akadns.net/]211.148.192.141 211.148.192.151
+[/pba0.apple.com/]211.148.192.141 211.148.192.151
+[/probe.siri.apple.com/]211.148.192.141 211.148.192.151
+[/prod-support.apple-support.akadns.net/]211.148.192.141 211.148.192.151
+[/publicassets.cdn-apple.com/]211.148.192.141 211.148.192.151
+[/reserve-prime.apple.com/]211.148.192.141 211.148.192.151
+[/s.mzstatic.com/]211.148.192.141 211.148.192.151
+[/seed-sequoia.siri.apple.com/]211.148.192.141 211.148.192.151
+[/seed-swallow.siri.apple.com/]211.148.192.141 211.148.192.151
+[/seed.siri.apple.com/]211.148.192.141 211.148.192.151
+[/sequoia.apple.com/]211.148.192.141 211.148.192.151
+[/sh-pod2-smp-device.apple.com/]211.148.192.141 211.148.192.151
+[/shazam-insights.cdn-apple.com/]211.148.192.141 211.148.192.151
+[/smp-device-content.apple.com/]211.148.192.141 211.148.192.151
+[/static.gc.apple.com/]211.148.192.141 211.148.192.151
+[/stocks-sparkline-lb.apple.com.akadns.net/]211.148.192.141 211.148.192.151
+[/stocks-sparkline.apple.com/]211.148.192.141 211.148.192.151
+[/store.apple.com.edgekey.net.globalredir.akadns.net/]211.148.192.141 211.148.192.151
+[/store.apple.com.edgekey.net/]211.148.192.141 211.148.192.151
+[/store.apple.com/]211.148.192.141 211.148.192.151
+[/store.storeimages.apple.com.akadns.net/]211.148.192.141 211.148.192.151
+[/store.storeimages.cdn-apple.com/]211.148.192.141 211.148.192.151
+[/support-china.apple-support.akadns.net/]211.148.192.141 211.148.192.151
+[/support.apple.com/]211.148.192.141 211.148.192.151
+[/swallow-apple-com.v.aaplimg.com/]211.148.192.141 211.148.192.151
+[/swallow.apple.com/]211.148.192.141 211.148.192.151
+[/swcatalog-cdn.apple.com.akadns.net/]211.148.192.141 211.148.192.151
+[/swcatalog.apple.com/]211.148.192.141 211.148.192.151
+[/swcdn.apple.com/]211.148.192.141 211.148.192.151
+[/swcdn.g.aaplimg.com/]211.148.192.141 211.148.192.151
+[/swdist.apple.com.akadns.net/]211.148.192.141 211.148.192.151
+[/swdist.apple.com/]211.148.192.141 211.148.192.151
+[/swscan-cdn.apple.com.akadns.net/]211.148.192.141 211.148.192.151
+[/swscan.apple.com/]211.148.192.141 211.148.192.151
+[/sylvan.apple.com/]211.148.192.141 211.148.192.151
+[/tj-pod1-smp-device.apple.com/]211.148.192.141 211.148.192.151
+[/updates-http.cdn-apple.com.akadns.net/]211.148.192.141 211.148.192.151
+[/updates-http.cdn-apple.com/]211.148.192.141 211.148.192.151
+[/updates.cdn-apple.com/]211.148.192.141 211.148.192.151
+[/valid.apple.com/]211.148.192.141 211.148.192.151
+[/valid.origin-apple.com.akadns.net/]211.148.192.141 211.148.192.151
+[/weather-data.apple.com.akadns.net/]211.148.192.141 211.148.192.151
+[/weather-data.apple.com/]211.148.192.141 211.148.192.151
+[/weather-map.apple.com/]211.148.192.141 211.148.192.151
+[/weather-map2.apple.com/]211.148.192.141 211.148.192.151
+[/weatherkit.apple.com/]211.148.192.141 211.148.192.151
+[/www.apple.com.edgekey.net.globalredir.akadns.net/]211.148.192.141 211.148.192.151
+[/www.apple.com.edgekey.net/]211.148.192.141 211.148.192.151
+[/www.apple.com/]211.148.192.141 211.148.192.151
+[/xp.apple.com/]211.148.192.141 211.148.192.151
