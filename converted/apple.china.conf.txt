@@ -46,6 +46,7 @@
 [/cn-smp-paymentservices.apple.com/]211.148.192.141 211.148.192.151
 [/configuration.apple.com.akadns.net/]211.148.192.141 211.148.192.151
 [/configuration.apple.com/]211.148.192.141 211.148.192.151
+[/crl.apple.com/]211.148.192.141 211.148.192.151
 [/cstat.apple.com/]211.148.192.141 211.148.192.151
 [/cstat.cdn-apple.com/]211.148.192.141 211.148.192.151
 [/dd-cdn.origin-apple.com.akadns.net/]211.148.192.141 211.148.192.151
