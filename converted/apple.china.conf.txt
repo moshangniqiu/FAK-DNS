@@ -5,8 +5,8 @@
 [/a5.mzstatic.com/]211.148.192.141 211.148.192.151
 [/adcdownload.apple.com.akadns.net/]211.148.192.141 211.148.192.151
 [/adcdownload.apple.com/]211.148.192.141 211.148.192.151
-[/amp-api.media.apple.com/]211.148.192.141 211.148.192.151
 [/amp-api-updates.apps.apple.com/]211.148.192.141 211.148.192.151
+[/amp-api.media.apple.com/]211.148.192.141 211.148.192.151
 [/api-p-ap-c.smoot.apple.com/]211.148.192.141 211.148.192.151
 [/api-p-ap-d.smoot.apple.com/]211.148.192.141 211.148.192.151
 [/api-p-ap-e.smoot.apple.com/]211.148.192.141 211.148.192.151
@@ -51,6 +51,7 @@
 [/cstat.cdn-apple.com/]211.148.192.141 211.148.192.151
 [/dd-cdn.origin-apple.com.akadns.net/]211.148.192.141 211.148.192.151
 [/dejavu.apple.com/]211.148.192.141 211.148.192.151
+[/devstreaming-cdn.apple.com/]211.148.192.141 211.148.192.151
 [/download.developer.apple.com/]211.148.192.141 211.148.192.151
 [/experiments.apple.com/]211.148.192.141 211.148.192.151
 [/gs-loc-cn.apple.com/]211.148.192.141 211.148.192.151
@@ -63,8 +64,8 @@
 [/gsp4-cn.ls.apple.com/]211.148.192.141 211.148.192.151
 [/gsp5-cn.ls.apple.com/]211.148.192.141 211.148.192.151
 [/gsp85-cn-ssl.ls.apple.com/]211.148.192.141 211.148.192.151
-[/gspe19-2-cn-ssl.ls.apple.com/]211.148.192.141 211.148.192.151
 [/gspe19-2-cn-ssl.ls-apple.com.akadns.net/]211.148.192.141 211.148.192.151
+[/gspe19-2-cn-ssl.ls.apple.com/]211.148.192.141 211.148.192.151
 [/gspe19-cn-ssl.ls.apple.com/]211.148.192.141 211.148.192.151
 [/gspe19-cn.ls-apple.com.akadns.net/]211.148.192.141 211.148.192.151
 [/gspe19-cn.ls.apple.com/]211.148.192.141 211.148.192.151
@@ -93,6 +94,7 @@
 [/ipcdn.apple.com/]211.148.192.141 211.148.192.151
 [/iphone-ld.apple.com/]211.148.192.141 211.148.192.151
 [/iphone-ld.origin-apple.com.akadns.net/]211.148.192.141 211.148.192.151
+[/is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net/]211.148.192.141 211.148.192.151
 [/is1-ssl.mzstatic.com/]211.148.192.141 211.148.192.151
 [/is1.mzstatic.com/]211.148.192.141 211.148.192.151
 [/is2-ssl.mzstatic.com/]211.148.192.141 211.148.192.151
@@ -103,7 +105,6 @@
 [/is4.mzstatic.com/]211.148.192.141 211.148.192.151
 [/is5-ssl.mzstatic.com/]211.148.192.141 211.148.192.151
 [/is5.mzstatic.com/]211.148.192.141 211.148.192.151
-[/is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net/]211.148.192.141 211.148.192.151
 [/itunes-apple.com.akadns.net/]211.148.192.141 211.148.192.151
 [/itunes.apple.com/]211.148.192.141 211.148.192.151
 [/itunesconnect.apple.com/]211.148.192.141 211.148.192.151
@@ -113,8 +114,8 @@
 [/ml.cdn-apple.com/]211.148.192.141 211.148.192.151
 [/music.apple.com/]211.148.192.141 211.148.192.151
 [/ocsp-lb.apple.com.akadns.net/]211.148.192.141 211.148.192.151
-[/ocsp2-lb.apple.com.akadns.net/]211.148.192.141 211.148.192.151
 [/ocsp.apple.com/]211.148.192.141 211.148.192.151
+[/ocsp2-lb.apple.com.akadns.net/]211.148.192.141 211.148.192.151
 [/ocsp2.apple.com/]211.148.192.141 211.148.192.151
 [/oscdn.apple.com/]211.148.192.141 211.148.192.151
 [/oscdn.origin-apple.com.akadns.net/]211.148.192.141 211.148.192.151
