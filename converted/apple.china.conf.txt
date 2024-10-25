@@ -51,6 +51,7 @@
 [/cstat.cdn-apple.com/]211.148.192.141 211.148.192.151
 [/dd-cdn.origin-apple.com.akadns.net/]211.148.192.141 211.148.192.151
 [/dejavu.apple.com/]211.148.192.141 211.148.192.151
+[/devimages-cdn.apple.com/]211.148.192.141 211.148.192.151
 [/devstreaming-cdn.apple.com/]211.148.192.141 211.148.192.151
 [/download.developer.apple.com/]211.148.192.141 211.148.192.151
 [/experiments.apple.com/]211.148.192.141 211.148.192.151
